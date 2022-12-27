@@ -1,0 +1,10 @@
+/* Style the tabs */
+.tabs {
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* Style the tab header */
+.tab-header {
+  display: flex;
+  border-bottom: 1px solid #ddd;
